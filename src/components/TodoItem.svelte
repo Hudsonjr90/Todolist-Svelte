@@ -4,7 +4,7 @@
 
 <style>
     .list__item {
-        color: #595959;
+        color: #ff0000;
         font-family: Arial, sans-serif;
         font-size: 1.5rem;
         list-style: none;
